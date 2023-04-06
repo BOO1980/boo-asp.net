@@ -102,3 +102,5 @@ dist
 
 # TernJS port file
 .tern-port
+
+tutorials/microsoft/MyWebApp/obj/Debug/net7.0/project.razor.json
