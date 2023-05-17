@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "event-handling", "event-handling\", "{01FDF2B5-67BA-4E88-B25E-EE009B70EEAF}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_15539"
+		Debug.AspNetCompiler.PhysicalPath = "event-handling\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_15539\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_15539"
+		Release.AspNetCompiler.PhysicalPath = "event-handling\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_15539\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "15539"
+		SlnRelativePath = "event-handling\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01FDF2B5-67BA-4E88-B25E-EE009B70EEAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01FDF2B5-67BA-4E88-B25E-EE009B70EEAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54D7461F-F1D0-49F1-B410-F468CEF727DE}
+	EndGlobalSection
+EndGlobal
